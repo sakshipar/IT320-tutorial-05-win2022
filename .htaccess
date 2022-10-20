@@ -1,0 +1,13 @@
+# BEGIN Codeanywhere
+
+# Allow wp-admin in Codeanywhere IDE preview
+Header unset X-Frame-Options
+
+# END Codeanywhere
+
+# BEGIN WordPress
+# The directives (lines) between "BEGIN WordPress" and "END WordPress" are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+
+# END WordPress
